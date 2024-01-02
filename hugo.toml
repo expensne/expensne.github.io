@@ -1,0 +1,40 @@
+baseURL = "/"
+languageCode = "en-us"
+title = "Fabian Grosch"
+theme="archie"
+canonifyURLs = true
+
+# Code Highlight
+pygmentsstyle = "monokai"
+pygmentscodefences = true
+pygmentscodefencesguesssyntax = true
+
+[params]
+mode="dark"
+useCDN=false
+subtitle = ""
+customcss = ["css/custom.css"]
+
+# Social Tags
+
+[[params.social]]
+name = "LinkedIn"
+icon = "linkedin"
+url = "https://www.linkedin.com/in/fabian-grosch/"
+
+[[params.social]]
+name = "GitHub"
+icon = "github"
+url = "https://github.com/expensne"
+
+# Main menu Items
+
+[[menu.main]]
+name = "#About"
+url = "/about"
+weight = 1
+
+[[menu.main]]
+name = "#ContactMe"
+url = "/contact"
+weight = 2
