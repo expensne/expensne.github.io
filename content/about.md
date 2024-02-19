@@ -17,14 +17,14 @@ title: 'About'
 
 ### Skills.
 
-* Development: `Python`, PySide, Tkinter, FastAPI, `Java`, Android, Apache Commons, `JavaScript`, HTML, CSS, `VueJS`, Vuetify, Vue Router, Pinia, D3, `C++`, OpenCV, Qt, `Git`
+* Development: `Python`, PySide, Tkinter, FastAPI, `Java`, Android, Apache Commons, `JavaScript`, HTML, CSS, `VueJS`, Vuetify, Vue Router, Pinia, D3, C++, OpenCV, Qt, Git
 * Scientific Computing: Python, NumPy, SciPy, Pandas, Matplotlib, Seaborn, Jupyter, OpenCV, Matlab
 * Machine Learning: TensorFlow, Keras, Scikit-learn, ONNX Runtime, XGBoost
 * Databases: MongoDB, MySQL
 * Misc: Docker, AWS, CI/CD
 * Good Practices: `Clean Code`, `TDD`
 * Domain Knowledge: `Biosignals` (e.g., electrocardiography, electroencephalography, electromyography, pulse plethysmography, electrodermal activity), `Signal Processing`
-* Still Learning: `Rust`, `C#`, `TypeScript`
+* Still Learning: TypeScript, Rust, C#
 
 ### CV.
 
