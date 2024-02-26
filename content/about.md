@@ -24,7 +24,9 @@ title: 'About'
 * Misc: Docker, AWS, CI/CD
 * Good Practices: `Clean Code`, `TDD`
 * Domain Knowledge: `Biosignals` (e.g., electrocardiography, electroencephalography, electromyography, pulse plethysmography, electrodermal activity), `Signal Processing`
-* Still Learning: TypeScript, Rust, C#
+* Still Learning: TypeScript, Spring, C#, Rust
+
+`*` intense use
 
 ### CV.
 
